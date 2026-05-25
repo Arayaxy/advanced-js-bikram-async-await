@@ -41,7 +41,7 @@ const printImageAndName = async () => {
     </section>
     `
 }
-// ### Ejercicios Batalla entre Pokemon y perritos ###
+// ### Ejercicios Batalla entre Pokemon y perritos ### 
 
 
 
